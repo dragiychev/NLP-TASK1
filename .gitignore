@@ -1,0 +1,25 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual Environments
+.venv/
+venv/
+env/
+
+# Environment variables
+.env
+.env.*
+!.env.example
+
+# Streamlit config
+.streamlit/
+
+# IDE / Editor specific
+.vscode/
+.idea/
+
+# macOS
+.DS_Store 
